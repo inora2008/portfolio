@@ -8,7 +8,7 @@
     <div class="absolute inset-0 bg-black opacity-20"></div>
     <div class="relative max-w-4xl mx-auto px-4">
       <h2 class="text-4xl md:text-5xl font-bold mb-4 animate-pulse">Welcome to My Portfolio</h2>
-      <p class="text-xl mb-6">I am Inora, an 11th-grade student at a lycee for gifted students.</p>
+      <p class="text-xl mb-6">I am Inora, an 11th-grade student at a lycee for gifted students!</p>
       <div class="flex justify-center gap-4 mt-8">
         <a href="#projects" class="border-2 border-white text-white px-6 py-3 rounded-lg hover:bg-white hover:text-primary transition shadow-md">See My Work</a>
         <a href="#contact" class="border-2 border-white text-white px-6 py-3 rounded-lg hover:bg-white hover:text-primary transition">Contact Me</a>
